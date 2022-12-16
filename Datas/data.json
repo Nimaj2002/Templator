@@ -1,0 +1,54 @@
+{
+    "Name" : "Liam",
+    "Date" : "2022",
+    "Linkforrecording" : "link",
+    "Assessment" : "some Assessment",
+    "Model" : "some model",
+    "Index" : "68.8%",
+    "short_session_summary" : "Very good session in general thanks",
+    "client_detailed_summary" : [
+        "Very good session in general thanks",
+        "Very good session in general thanks",
+        "Very good session in general thanks",
+        "Very good session in general thanks"       
+    ],
+    "practitioner_detailed_summary" : [
+        "Very good session in general thanks",
+        "Very good session in general thanks",
+        "Very good session in general thanks"
+    ],
+    "analytics" : [
+        {
+            "title" : "ratio",
+            "percentage" : "86%",
+            "detail" : "blabladjoeklsj"
+        },
+        {
+            "title" : "ratio",
+            "percentage" : "64%",
+            "detail" : "grdgdnhrgtrg"
+        },
+        {
+            "title" : "ratio",
+            "percentage" : "23%",
+            "detail" : "greertdfeg"
+        }
+    ],
+    "transcripts" : [
+        {
+            "name" : "ABFVF",
+            "date" : "[start 3:45 end 4:34",
+            "detail" : "fsfhjlskfm  klfjlskfjslkm"
+        },
+        {
+            "name" : "frljgkmg",
+            "date" : "[start 3:45 end 4:34",
+            "detail" : "fsfhjlskfm  grpsoijflkml"
+        },
+        {
+            "name" : "poikjknfls",
+            "date" : "[start 3:45 end 4:34",
+            "detail" : "uihsojk;lfml  klfjlskfjslkm"
+        }
+    ] 
+}
